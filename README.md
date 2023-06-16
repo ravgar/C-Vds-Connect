@@ -1,7 +1,7 @@
 # C-Sharp-Vds-Connect
 # Örnek Olması İçin Atılmıştır
 
-\`\`\`js
+```js
 {
             string userName = txtUserName.Text;
             string ipAddress = txtIPAddress.Text;
@@ -19,4 +19,4 @@
                 MessageBox.Show("Bir hata oluştu: " + ex.Message);
             }
         }
-  \`\`\`
+  ```
